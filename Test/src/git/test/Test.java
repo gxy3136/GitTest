@@ -14,4 +14,10 @@ public class Test {
 		Assert.assertTrue(true);
 	}
 
+	@org.junit.Test
+	public void test003() {
+		Assert.assertTrue(true);
+		System.out.println("test003");
+	}
+
 }
