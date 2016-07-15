@@ -12,6 +12,7 @@ public class Test {
 	@org.junit.Test
 	public void test002() {
 		Assert.assertTrue(true);
+		System.out.println("test 002");
 	}
 
 	@org.junit.Test
